@@ -1,10 +1,11 @@
 # monopayment_gateway
 
-Created with CodeSandbox
+MonoPaymentGateway for connect nigirea bank account
 
 # monopayment_gateway
 
-Created with CodeSandbox
+[visit mono](https://mono.co/) and create account and get public_key
+and sec_key
 
 ```js
 import React, { useState } from "react";
