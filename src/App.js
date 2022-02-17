@@ -11,8 +11,8 @@ export default function App() {
       <div style={{ margin: 40 }} />
 
       <ConnectMono
-        publicKey="test_pk_RFUnMzWXugM4un5av12r"
-        secKey="test_sk_ktRrRiMjYIQTWFbv2yAN"
+        publicKey="pub_key_mono"
+        secKey="sec_key_mono"
         setCodeId={setCodeId}
         text="Mono Bank Account"
         buttonStyle={{
