@@ -35,7 +35,8 @@ export default function App() {
 ```
 
 #Contributers
-```
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
 <td align="center">
 		<a href="https://in.linkedin.com/in/vishal-kardam-425186220">
 			<img src="https://avatars.githubusercontent.com/u/90035664?v=4" width="100px;" alt="Vishal Kardam"/>
@@ -46,6 +47,6 @@ export default function App() {
 		<a href="#" title="Code">💻</a> 
 		<a href="https://github.com/vishalkardam1508" title="Documentation">📖</a>
 	</td>
-```
+
 
 > Please see full example.
